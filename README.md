@@ -7,6 +7,7 @@ PWN
 - https://0xinfection.github.io/reversing/
 - https://ir0nstone.gitbook.io/notes
 - https://pwn.college/fundamentals/
+- https://ir0nstone.gitbook.io/notes/types/stack
 
 - https://www.youtube.com/@_CryptoCat
 - https://www.youtube.com/@PinkDraconian
