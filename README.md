@@ -13,6 +13,13 @@ PWN
 - https://www.youtube.com/@_CryptoCat
 - https://www.youtube.com/@PinkDraconian
 
+- https://pwnable.tw/
+
+Crypto
+- https://cryptohack.org/
+- https://cryptopals.com/
+
 WEB
 - https://portswigger.net/
+
 
