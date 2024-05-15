@@ -22,4 +22,5 @@ Crypto
 WEB
 - https://portswigger.net/
 
-
+Other
+- https://www.hackthebox.com/
