@@ -16,9 +16,6 @@ There is flag encoded and function to decode flag
 ![image](https://github.com/user-attachments/assets/a953739f-2f30-4e88-acf0-437239453f38)  
 just call the function in main function and flag will appear
 ![image](https://github.com/user-attachments/assets/c748ebb7-2590-4c7c-84b0-3b88881409c5)  
-![image](https://github.com/user-attachments/assets/43c7247c-b0a6-4a75-94fe-79681ac12531)
-
-
-
 
 ### Flag
+`picoCTF{7h3_r04d_l355_7r4v3l3d_ae0b80bd}`
