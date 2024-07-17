@@ -20,4 +20,18 @@ just call the function in main function and flag will appear
 ### Flag
 `picoCTF{7h3_r04d_l355_7r4v3l3d_ae0b80bd}`
 
+## runme.py
+Tags: General Skills, Python  
+AUTHOR: SUJEET KUMAR
+### Description
+Run the runme.py script to get the flag. Download the script with your browser or with wget in the webshell.
+[Download runme.py Python script](https://artifacts.picoctf.net/c/34/runme.py)
+### Hints
+### Aproach
+Lets try to run `runme.py`  
+![image](https://github.com/user-attachments/assets/7e3efc9e-b37b-47a8-b387-dcbb6babc2ac)  
+There is a flag :D
+
+
+
 ![5e02df0c54ebfc3f76969e89e49f6d4b](https://github.com/user-attachments/assets/1743755c-1d80-4268-8736-99ea63de193b)
