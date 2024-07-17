@@ -30,8 +30,8 @@ Run the runme.py script to get the flag. Download the script with your browser o
 ### Aproach
 Lets try to run `runme.py`  
 ![image](https://github.com/user-attachments/assets/7e3efc9e-b37b-47a8-b387-dcbb6babc2ac)  
-There is a flag :D
-
-
+There is a flag :D  
+### Flag
+picoCTF{run_s4n1ty_run}
 
 ![5e02df0c54ebfc3f76969e89e49f6d4b](https://github.com/user-attachments/assets/1743755c-1d80-4268-8736-99ea63de193b)
