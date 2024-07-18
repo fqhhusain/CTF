@@ -67,6 +67,30 @@ run program and answer question
 ### Flag
 picoCTF{4ll_y0ur_b4535_762f748e}
 
+## fixme1.py
+Tag : Python, General Skills   
+AUTHOR: LT 'SYREAL' JONES   
+
+### Description
+Fix the syntax error in this Python script to print the flag.   
+[Download Python script](https://artifacts.picoctf.net/c/27/fixme1.py)   
+
+### Aproach
+Try run program   
+![image](https://github.com/user-attachments/assets/db0c59e5-d9bc-45bd-a96c-622dba6c6d59)   
+cannot run because indentation error   
+![image](https://github.com/user-attachments/assets/61e207fd-c2a2-4ea6-9c38-9fc7b85a43f7)
+fix IndentationError   
+![image](https://github.com/user-attachments/assets/d338da36-99cb-4438-a4c9-05dd142cd238)   
+run program again   
+![image](https://github.com/user-attachments/assets/565c7a52-b32e-42ba-980a-ff6bd860534d)  
+
+### Flag
+picoCTF{1nd3nt1ty_cr1515_182342f7}
+
+
+
+
 
 
 
