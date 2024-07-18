@@ -61,8 +61,12 @@ Run the Python script and convert the given number from decimal to binary to get
 
 ### Aproach
 run program and answer question 
-![image](https://github.com/user-attachments/assets/109f46b5-0fd6-4483-a179-2624ba8f2c37)
-![image](https://github.com/user-attachments/assets/9e9fe1d1-0535-461b-9a38-dd237358b698)
+![image](https://github.com/user-attachments/assets/109f46b5-0fd6-4483-a179-2624ba8f2c37)   
+![image](https://github.com/user-attachments/assets/9e9fe1d1-0535-461b-9a38-dd237358b698)   
+
+### Flag
+picoCTF{4ll_y0ur_b4535_762f748e}
+
 
 
 
