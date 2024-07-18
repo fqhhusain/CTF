@@ -1,12 +1,15 @@
 # Beginner picoMini 2022
+
 ## Serpentine
 Tags: General Skills, Python  
 Author: LT 'syreal' Jones  
+
 ### Description
-Description  
 Find the flag in the Python script!  
 [Download Python script](https://artifacts.picoctf.net/c/35/serpentine.py) 
+
 ### Hints
+
 ### Aproach
 Try run program  
 ![image](https://github.com/user-attachments/assets/4516bb37-63ea-4a9a-825c-bf46fa22c977)  
@@ -23,20 +26,25 @@ just call the function in main function and flag will appear
 ## runme.py
 Tags: General Skills, Python  
 AUTHOR: SUJEET KUMAR
+
 ### Description
 Run the runme.py script to get the flag. Download the script with your browser or with wget in the webshell.
 [Download runme.py Python script](https://artifacts.picoctf.net/c/34/runme.py)
+
 ### Hints
+
 ### Aproach
 Lets try to run `runme.py`  
 ![image](https://github.com/user-attachments/assets/7e3efc9e-b37b-47a8-b387-dcbb6babc2ac)  
 There is a flag :D  
+
 ### Flag
 picoCTF{run_s4n1ty_run}
 
 ## codebook
 Tags : General Skills, Python, Shell
 AUTHOR: LT 'SYREAL' JONES
+
 ### Description
 Run the Python script code.py in the same directory as codebook.txt.   
 [Download code.py](https://artifacts.picoctf.net/c/3/code.py)
@@ -55,7 +63,6 @@ Tags : General Skills, base, Python
 AUTHOR: LT 'SYREAL' JONES
 
 ### Description
-
 Run the Python script and convert the given number from decimal to binary to get the flag.
 [Download Python script](https://artifacts.picoctf.net/c/22/convertme.py)
 
