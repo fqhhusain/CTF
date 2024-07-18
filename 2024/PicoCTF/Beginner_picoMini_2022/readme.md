@@ -43,9 +43,13 @@ Run the Python script code.py in the same directory as codebook.txt.
 [Download codebook.txt](https://artifacts.picoctf.net/c/3/codebook.txt)
 
 ### Aproach   
-
-![image](https://github.com/user-attachments/assets/d7fc2db4-9291-42bf-92e0-e0406873962c)
+Quite straightforward, just follow the instructions.
+![image](https://github.com/user-attachments/assets/d7fc2db4-9291-42bf-92e0-e0406873962c)   
 ![image](https://github.com/user-attachments/assets/e873c998-6edf-422c-8bfe-f84a3f14e7c6)
+
+### Flag
+picoCTF{c0d3b00k_455157_197a982c}
+
 
 
 
