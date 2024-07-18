@@ -34,4 +34,20 @@ There is a flag :D
 ### Flag
 picoCTF{run_s4n1ty_run}
 
+## codebook
+Tags : General Skills, Python, Shell
+AUTHOR: LT 'SYREAL' JONES
+### Description
+Run the Python script code.py in the same directory as codebook.txt.
+[Download code.py](https://artifacts.picoctf.net/c/3/code.py)
+[Download codebook.txt](https://artifacts.picoctf.net/c/3/codebook.txt)
+
+### Aproach   
+
+![image](https://github.com/user-attachments/assets/d7fc2db4-9291-42bf-92e0-e0406873962c)
+![image](https://github.com/user-attachments/assets/e873c998-6edf-422c-8bfe-f84a3f14e7c6)
+
+
+
+
 ![5e02df0c54ebfc3f76969e89e49f6d4b](https://github.com/user-attachments/assets/1743755c-1d80-4268-8736-99ea63de193b)
