@@ -43,12 +43,29 @@ Run the Python script code.py in the same directory as codebook.txt.
 [Download codebook.txt](https://artifacts.picoctf.net/c/3/codebook.txt)
 
 ### Aproach   
-Quite straightforward, just follow the instructions.
+Quite straightforward, just follow the instructions.   
 ![image](https://github.com/user-attachments/assets/d7fc2db4-9291-42bf-92e0-e0406873962c)   
 ![image](https://github.com/user-attachments/assets/e873c998-6edf-422c-8bfe-f84a3f14e7c6)
 
 ### Flag
 picoCTF{c0d3b00k_455157_197a982c}
+
+## Convertme.py
+Tags : General Skills, base, Python
+AUTHOR: LT 'SYREAL' JONES
+
+### Description
+
+Run the Python script and convert the given number from decimal to binary to get the flag.
+[Download Python script](https://artifacts.picoctf.net/c/22/convertme.py)
+
+### Aproach
+run program and answer question 
+![image](https://github.com/user-attachments/assets/109f46b5-0fd6-4483-a179-2624ba8f2c37)
+![image](https://github.com/user-attachments/assets/9e9fe1d1-0535-461b-9a38-dd237358b698)
+
+
+
 
 
 
