@@ -38,7 +38,7 @@ picoCTF{run_s4n1ty_run}
 Tags : General Skills, Python, Shell
 AUTHOR: LT 'SYREAL' JONES
 ### Description
-Run the Python script code.py in the same directory as codebook.txt.
+Run the Python script code.py in the same directory as codebook.txt.   
 [Download code.py](https://artifacts.picoctf.net/c/3/code.py)
 [Download codebook.txt](https://artifacts.picoctf.net/c/3/codebook.txt)
 
