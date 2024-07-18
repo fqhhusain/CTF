@@ -60,7 +60,7 @@ Run the Python script and convert the given number from decimal to binary to get
 [Download Python script](https://artifacts.picoctf.net/c/22/convertme.py)
 
 ### Aproach
-run program and answer question 
+run program and answer question   
 ![image](https://github.com/user-attachments/assets/109f46b5-0fd6-4483-a179-2624ba8f2c37)   
 ![image](https://github.com/user-attachments/assets/9e9fe1d1-0535-461b-9a38-dd237358b698)   
 
