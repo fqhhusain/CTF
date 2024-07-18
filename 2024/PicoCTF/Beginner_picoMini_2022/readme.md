@@ -79,7 +79,7 @@ Fix the syntax error in this Python script to print the flag.
 Try run program   
 ![image](https://github.com/user-attachments/assets/db0c59e5-d9bc-45bd-a96c-622dba6c6d59)   
 cannot run because indentation error   
-![image](https://github.com/user-attachments/assets/61e207fd-c2a2-4ea6-9c38-9fc7b85a43f7)
+![image](https://github.com/user-attachments/assets/61e207fd-c2a2-4ea6-9c38-9fc7b85a43f7)   
 fix IndentationError   
 ![image](https://github.com/user-attachments/assets/d338da36-99cb-4438-a4c9-05dd142cd238)   
 run program again   
